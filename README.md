@@ -180,14 +180,21 @@ Disparo de preempção e urgência a 1000 Hz (1ms):
 
 ---
 
-## 👤 Autor
+## Autor
 
 **Marcos Roberto Braga**
 
-- Email: noelmrb_tec@yahoo.com
-- Aluno: Pedro Henrique Cerqueira Braga
+E-mail: noelmrb_tec@yahoo.com
+
+Instituto Informal de Educação, Ciência e Tecnologia
+
+Departamento de Engenharia Eletrônica e Sistemas Embarcados
 
 ---
+
+## Licença
+
+Este projeto está licenciado sob a licença MIT.
 
 ## 🏆 Agradecimentos
 
