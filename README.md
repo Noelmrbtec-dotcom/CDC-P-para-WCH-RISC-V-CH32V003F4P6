@@ -91,7 +91,7 @@ O **CDC-P** (Concurrency Deterministic Control with Preemption) é um RTOS que i
 |-----|-------------|-------|-----|-------|
 | CH32V003F4P6 | RISC-V RV32EC | 48 MHz | 2 KB | 16 KB |
 | STM32F103C6 | ARM Cortex-M3 | 72 MHz | 6 KB | 32 KB |
-| PIC16F628A | PIC 8-bit | 4 MHz | 224 B | 3.5 KB |
+| PIC16F628A | PIC 8-bit | 4 MHz | 224 B | 2  KB |
 
 ---
 
